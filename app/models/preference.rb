@@ -1,2 +1,2 @@
-class Preference < ApplicationController
+class Preference < ApplicationRecord
 end
